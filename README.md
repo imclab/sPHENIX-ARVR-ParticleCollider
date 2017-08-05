@@ -1,1 +1,1 @@
-# ARVR-ParticleCollider
+# sPHENIX-ARVR-ParticleCollider
